@@ -1,0 +1,5 @@
+1. Express is the NodeJS framework which we are going to use to create API endpoints
+2. The package of mongoose will be used to connect to the MongoDB database
+3. dotenv package uses an .env file to save secrets in a project
+4. Nodemon package will restart our backend server the moment we make any change in the code. If we run the
+server code using node command, it needs to be restarted every time manually for changes to appear

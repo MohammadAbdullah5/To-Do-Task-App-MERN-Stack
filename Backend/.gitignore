@@ -1,0 +1,3 @@
+# These files or folders are ignored by git and will not be commited to the repository
+node_modules
+.env
