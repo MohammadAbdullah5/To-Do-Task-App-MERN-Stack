@@ -1,6 +1,6 @@
 # To-Do-Task-App
 
-[![Deployment](https://img.shields.io/badge/Frontend-Deployed-brightgreen)](https://todobyabdullah.netlify.app/)
+[![Deployment](https://img.shields.io/badge/Deployment-brightgreen)](https://todobyabdullah.netlify.app/)
 
 
 ## Deployment
